@@ -45,8 +45,8 @@
       <div class="index">${index + 1}</div>
       <div class="name">${item.name}</div>
       <div class="more">
-        <img class="remove" src="./remove.svg" alt="移出播放列表" title="移出播放列表" />
-        <img class="add" src="./check.svg" alt="加入播放列表" title="加入播放列表" />
+        <img class="remove" src="./remove.svg"  title="移出播放列表" />
+        <img class="add" src="./check.svg"  title="加入播放列表" />
       </div>
     </div>`;
   }
